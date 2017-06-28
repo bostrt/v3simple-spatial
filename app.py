@@ -9,7 +9,7 @@ from random_words import RandomWords
 
 @route('/')
 def index():
-    return "<h1> RBOST WUZ HERE </h1>"
+    return "<h1> GREEEEEEN (aka B) </h1>"
 
 
 # since this is a read only talk to the replicas
